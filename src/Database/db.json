@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Kevin Durant",
+      "username": "durent07",
+      "email": "durent@gmail.com",
+      "phone": "22222222222",
+      "id": 1
+    },
+    {
+      "name": "Ricky Rubio",
+      "username": "kuroko",
+      "email": "rubio@gmail.com",
+      "phone": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "hitman01",
+      "email": "rohitsharma@gmail.com",
+      "phone": "111111111111",
+      "id": 3
+    },
+    {
+      "name": "Lebron James",
+      "username": "lebronJames",
+      "email": "lebronJames@gmail.com",
+      "phone": "13133113",
+      "id": 4
+    },
+    {
+      "name": "Messi",
+      "username": "messi10",
+      "email": "messi@gmail.com",
+      "phone": "1245455444",
+      "id": 5
+    }
+  ]
+}
